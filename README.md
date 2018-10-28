@@ -1,1 +1,1 @@
-Empirical distribution of Zipf's law using all rank and frequency from any book/text file
+Empirical distribution of Zipf's law using rank and frequency from any book/text file
